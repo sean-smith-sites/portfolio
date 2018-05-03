@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<title>Sean Smith's Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="seanSmithPortfolio.css">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Righteous" />
+<style type="text/css">
+	
+/*.card * {
+	display: inline-block;
+}*/
+
+
+.description {
+
+}
+
+.descriptionContainer {
+	text-align: center;
+	min-width: 100%;
+}
+
+/* collapsed view */
+@media only screen and (max-width: 600px) {
+	
+	.display-middle {
+
+	}
+
+	.display-bottommiddle {
+		
+	}
+
+	img {
+		width:100%;
+	}
+
+}
+
+/*expanded view */
+@media only screen and (min-width: 600px) {
+	.seanCell {
+	    min-height: 290px;
+	    max-width: 313px;
+	    margin: auto;
+	}
+
+	.cardImg {
+		display: block;
+		max-width:260px;
+		max-height:260px;		
+		width: auto;
+		height: auto;
+		margin:auto;
+		
+	}
+
+	.card {		
+		/*display: inline-block;*/
+	}
+	
+	.display-middle {
+     position: absolute; 
+     top: 50%; 
+     left: 50%; 
+     transform: translate(-50%,-50%); 
+    /*-ms-transform: translate(-50%,-50%);*/
+	}
+
+	.display-bottommiddle {
+		     position: absolute; 
+     left: 50%; 
+     bottom: 0; 
+    transform: translate(-50%,0%);
+	}
+
+}
+
+
+
+
+</style>
+<body>
+
+	<div class="w3-container">
+		<div class="w3-container w3-center w3-righteous ">
+			  <a href="index.html" class="w3-righteous w3-wide w3-animate-right designerText">designer</a>
+		</div>
+		
+			<div class="w3-container w3-animate-left">
+
+					<div class="w3-bar w3-righteous w3-margin-bottom">
+				 
+					 <a href="graphics.html" style="width:20%" class="w3-bar-item w3-button w3-hide-small w3-hover-none ">Graphics</a>
+					  <a href="logos.html" style="width:20%" class="w3-bar-item w3-button w3-hide-small w3-hover-none ">Logos</a>
+					  <a href="ux.html" style="width:20%" class="w3-bar-item w3-button w3-hide-small w3-hover-none ">UX</a>
+					  <a href="web.html" style="width:20%" class="w3-bar-item w3-button w3-hide-small w3-hover-none ">Web</a>
+					  <a href="fineart.html" style="width:20%" class="w3-bar-item w3-button w3-hide-small w3-hover-none ">Fine Art</a>
+					  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="myFunction()">&#9776;</a>
+					</div>
+
+					<div id="demo" class="w3-bar-block w3-righteous w3-hide w3-hide-large w3-hide-medium w3-margin-bottom">
+					  <a href="graphics.html" class="w3-bar-item w3-button ">Graphics</a>
+					  <a href="logos.html" class="w3-bar-item w3-button ">Logos</a>
+					  <a href="ux.html"  class="w3-bar-item w3-button ">UX</a>
+					  <a href="web.html" class="w3-bar-item w3-button ">Web</a>
+					  <a href="fineart.html" class="w3-bar-item w3-button ">Fine Art</a>
+					</div>
+			</div>
+
+			<script>
+		function myFunction() {
+		    var x = document.getElementById("demo");
+		    if (x.className.indexOf("w3-show") == -1) {
+		        x.className += " w3-show";
+		    } else { 
+		        x.className = x.className.replace(" w3-show", "");
+		    }
+		}
+		</script>
+	</div>
+
+	<div class="w3-container w3-gray" style="height: 25% width: 100%;">
+	  <img src="images/SeanSmith_selft_final.jpg" id="Selfie" class="w3-circle w3-image" style="width:10%; min-width: 60px;display:block; margin-left: auto; margin-right: auto;">
+	</div>	
+
+
+	<!-- Beatles Chalk Instillation-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/beatles_chalk.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Beatles Chalk Instillation</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Pencil &amp; Pen: Boombox Man-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/boombox_man.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Pencil &amp; Pen: Boombox Man</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Chalk Instillation-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/chalk_illustration.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Chalk Instillation</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Pastels: Lou Reed-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/lou_reed.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Pastels: Lou Reed</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Water Color &amp; Ink: Rained On-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/rained_on.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Water Color &amp; Ink: Rained On</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+
+	  <!-- Acrylic: Flowers-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/flowers.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Acrylic: Flowers</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Guac-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/guac.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Acrylic: Guac</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Mixed Media: J Dilla-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/jdilla.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Mixed Media: J Dilla</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Noir City-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/noir_city.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Acrylic: Noir City</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Subroc-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/subroc.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description">Acrylic: Subroc</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+
+	<div id="footer">
+				<div id="handContainer">	
+					<img src="layout_graphics/handicon.png" id="handicon" class="">	
+				</div>	
+
+
+				<div id="footertextdiv" style="line-height: 1.6;" class="">
+						<p style="line-height: .6;"> Sean Smith</p>
+					    <p style="line-height: .6;">seansmith1002@gmail.com</p>
+					    <p style="line-height: .6;">937 416 4869</p>
+				</div>	
+		</div>	
+
+	<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+	  <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+	  <div class="w3-modal-content w3-animate-zoom">
+	    <img id="img01" style="width:100%">
+	  </div>
+	</div>
+
+	<script>
+	function onClick(element) {
+	  document.getElementById("img01").src = element.src;
+	  document.getElementById("modal01").style.display = "block";
+	}
+	</script>
+
+</body>
+</html>

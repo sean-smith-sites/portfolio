@@ -1,0 +1,364 @@
+
+	<!-- !!!-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/graphics/!!!.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> !!!</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Illustrator: Jean-Michel Basquiat-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/graphics/basquiat.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Illustrator: Jean-Michel Basquiat</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Moose Mascot-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/graphics/mascot.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Moose Mascot</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Real Tree Licensed Packaging-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/graphics/realtree_packaging_landscape.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Real Tree Licensed Packaging</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Weathered Hearts-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/graphics/weathered_hearts.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Weathered Hearts</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Beatles Chalk Instillation-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/beatles_chalk.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Beatles Chalk Instillation</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Pencil &amp; Pen: Boombox Man-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/boombox_man.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Pencil &amp; Pen: Boombox Man</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Chalk Instillation-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/chalk_illustration.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Chalk Instillation</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Pastels: Lou Reed-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/lou_reed.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Pastels: Lou Reed</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Water Color &amp; Ink: Rained On-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/illustration/rained_on.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Water Color &amp; Ink: Rained On</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Bombfire Records-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/bombfire.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Bombfire Records</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Eisbar Dev-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/eisbar.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Eisbar Dev</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Ghostface Diabetes Charity Logo-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/ghostface_charity.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Ghostface Diabetes Charity Logo</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Go Clinic App Logo-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/go_clinic.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Go Clinic App Logo</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- 5k Dog Walk Promo Poster-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/love_a_stray.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> 5k Dog Walk Promo Poster</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Sk Collective Online Boutique -->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/sk_collective.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Sk Collective Online Boutique </span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Striker School Soccer Camp-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/striker_school.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Striker School Soccer Camp</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Thank Goodness Kids Clothing Reseller-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/logos/thankgoodness_logo.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Thank Goodness Kids Clothing Reseller</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Flowers-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/flowers.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Acrylic: Flowers</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Guac-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/guac.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Acrylic: Guac</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Mixed Media: J Dilla-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/jdilla.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Mixed Media: J Dilla</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Noir City-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/noir_city.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Acrylic: Noir City</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Acrylic: Subroc-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/paintings/subroc.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Acrylic: Subroc</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Go Clinic App: Clinic Page-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/UX/client_layout.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Go Clinic App: Clinic Page</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Go Clinic App: Contact Page-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/UX/contact_layout.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Go Clinic App: Contact Page</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  
+
+	<!-- Go Clinic App: Location Page-->
+	<div class="w3-third">
+	  	<div class="seanCell w3-mobile w3-card w3-display-container">
+	  		<div class="card">
+			    <img class="cardImg display-middle" src="portfolio_pieces/UX/location_layout.png", style="cursor:pointer"  onclick="onClick(this)" class="w3-hover-opacity">
+			
+				<div class="display-bottommiddle descriptionContainer">
+					<span class="description"> Go Clinic App: Location Page</span>
+				</div>
+			</div>
+		</div>
+	  </div>
+	  

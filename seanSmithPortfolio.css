@@ -1,0 +1,189 @@
+/*Font styles*/
+
+
+
+.w3-righteous {
+    font-family: "Righteous", serif;
+}
+
+.designerText{
+	font-size: 22pt;
+	text-decoration: none;
+}
+
+.designerText:hover {
+	color:grey;
+}
+
+h1 {
+	font-family: Righteous;
+	font-size: 23px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 23px;
+}
+h3 {
+	font-family: Righteous;
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 23px;
+}
+p {
+	font-family: Righteous;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 23px;
+}
+
+a:hover {
+    border-bottom: 5px;
+  display: inline-block;
+  /*line-height: 1;*/
+  text-decoration: underline;
+    
+}
+
+/*Body{
+	
+    background-image: url('images/myHead.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+*/
+#resumebutton{
+	width: 100%;
+	height: 100px;
+	/*background-color: blue;*/
+}
+
+
+#footer{
+	width: 100%;
+	min-height: 100px;
+	margin-top: 10%;
+	clear: both;
+   bottom:0;
+}
+
+.center{
+	/*margin: auto;*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+span.center{
+	text-align: center;
+	color: blue;
+
+}
+
+#footertextdiv{
+	width: 50%;
+	min-width: 100px;
+	/*background-color: green;*/
+	height: 100px;
+	float: left;
+	padding-top: 20px;
+
+
+}
+
+#handContainer{
+	width: 50%;
+	max-width: 50%;
+	min-width: 50%;
+	/*background-color: grey;*/
+	height: 100px;
+	float: left;
+	
+
+}
+
+#handicon{
+	max-height: 100px;
+	/*min-height: 100px*/
+	max-width: inherit;
+	float: right;
+	padding: 2px;
+
+}
+
+#myHead {
+	margin-top:5%;
+	z-index: -1;
+	position: absolute;
+	 /*animation-duration: 5s;*/
+	/*position: relative;*/
+    /*-webkit-animation: mymove 5s infinite; 
+    animation: mymove 5s infinite;*/
+	}
+
+#seanFont{
+	z-index: 1;
+	margin-top: 5%;
+	
+}	
+
+#Selfie {
+	background-image: url("images/SeanSmithTest.jpg");
+	min-height: 50%;
+	
+}
+
+
+
+.footerText{
+	line-height: 1.6;
+	font-size:xx-small;
+	color: blue;
+}
+
+
+
+.w3-animate-top{
+	position:relative; 
+	animation:animatetop .75s;
+}
+	
+@keyframes animatetop{
+	from{top:0px;opacity:0;} 
+	/*to{top:-300;opacity:1;}*/
+}
+
+
+.w3-animate-bottom{
+    position:relative;
+    animation:animatebottom 1.0s;
+}
+@keyframes animatebottom{
+    from{top: 100%; opacity:0;}
+     /*to{ top: 0px; opacity:1;}*/
+}
+
+
+
+.sean-animate-grow {
+	animation: grow 2.0s;
+}
+
+.sean-animate-shrink {
+	animation: shrink 2.0s;
+}
+
+@keyframes grow {
+	from{width: 0%; opacity: 0; height:0%; display: block;}	
+}
+
+@keyframes shrink {
+	to{width: 0%; opacity: 0; height:0%; display: none;}
+}
+
